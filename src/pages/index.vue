@@ -2,22 +2,31 @@
   <q-page class="flex">
 
     <div class="row full-width" style="padding: 2rem; background: #efefef;">
-      content goes here
+      this content goes here
     </div>
 
     <div class="row full-width" style="padding: 2rem; background: #ddeeff;">
-      content goes here
+      that content goes there
     </div>
 
-    <div class="row full-width" align="center" style="padding: 2rem; background: #ffeeff;">
+    <div class="row full-width gutter-md" align="center" style="padding: 2rem; background: #ffeeff;">
       <div class="col-4">
-        content
+        a column
+        <img src="../assets/tulips-windmill-holland-cr-getty.jpg"
+          style="width: 100%;"
+        />
       </div>
       <div class="col-4">
-        content
+        a column
+        <img src="../assets/arctic-circle-greenland-cr-getty.jpg"
+          style="width: 100%;"
+        />
       </div>
       <div class="col-4">
-        content
+        a column
+        <img src="../assets/oia-santorini-greece-cr-alamy.jpg"
+          style="width: 100%;"
+        />
       </div>
     </div>
 
